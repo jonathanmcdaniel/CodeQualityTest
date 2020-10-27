@@ -1,0 +1,1 @@
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jonathanmcdaniel_CodeQualityTest&metric=code_smells)](https://sonarcloud.io/dashboard?id=jonathanmcdaniel_CodeQualityTest)
